@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @khosyk
-
-HELLO WORLD
+👋 Hi, I’m @khosyk
